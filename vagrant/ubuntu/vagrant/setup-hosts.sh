@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Just for the sake of it
 # Set up /etc/hosts so we can resolve all the machines in the VirtualBox network
 set -ex
 IFNAME=$1
